@@ -1,4 +1,4 @@
-<h1>Penetration Testing Project</h1>
+<h1>Risk Assessment Project</h1>
 
 <h2>DESCRIPTION</h2>
 The project is a “structured walkthrough” penetration test of a fictional company, Artemis, Incorporated (“Artemis”). A structured walkthrough is an organized procedure for a group of peers to review and discuss the technical aspects of various IT, IT Security, and IT Audit work products. The major objectives of a structured walkthrough are to find errors and to improve the quality of the product or service to be delivered.
